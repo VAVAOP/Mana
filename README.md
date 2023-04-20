@@ -1,13 +1,45 @@
 # Mana
-new cryptocurrency concept token
-in this project iam going to build an simple model of token contract with the help of solidity
-and which is run on EVM(Etherium Virtual Machine)
-so this new token name is mana
-and it has some basic features like
-necessary variables,
-mapping address,
-mint function,
-burn function etc.
-the simple explanation of working of this token is that the sender with specefic adress can mint token to their account and can check the balance and also the sender can burn tokens too which also reflect in balance but sender can't burn tokens more than his total supply
 
+creating simple token with simple features
+
+## Description
+
+this is a project of creating simple token which has simple features like minting token to token supply and burning token from total supply too
+
+## Getting Started
+
+### Installing
+
+* the program is written in solidity and can be run in remix like online IDE
+* the files that are needed is uploaded in the mana repository
+### Executing program
+
+* this project is not at its completeness
+* so the file can only be run in solidity IDE like remix
+```
+program can be executed or deploy after compiling in the remix
+```
+
+## Help
+
+as i mentioned earlier this project is at its intermediate stage 
+so there is only couple of function that can performed by this token
+
+```
+and the command is runned many times and verified it contain no error
+so probability of having doubt is very low 
+and instructions and specific part or function of code is specified in commented lines
+```
+
+## Authors
+
+Contributors names and contact info
+
+VAVAOP 
+iamoneofthechoosen1@gmail.com
+
+
+## License
+
+This project is licensed under the [vava] License - see the LICENSE.md file for details
 
